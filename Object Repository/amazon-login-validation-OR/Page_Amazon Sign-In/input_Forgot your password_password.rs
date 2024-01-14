@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6e76a313-36db-43e2-868c-1f45c96f454f</webElementGuid>
+      <webElementGuid>53ad2b8d-fcf3-4467-8f49-28562fc61056</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>0fd13ad2-4e5b-4c6c-8260-924d3798b9e4</webElementGuid>
+      <webElementGuid>5434e3d0-5291-499f-9431-14092ac63d7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>1024</value>
-      <webElementGuid>c0c38212-560d-4872-b941-f9034d1ac828</webElementGuid>
+      <webElementGuid>9206c5be-89bf-4520-afb5-3bf130f749fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ap_password</value>
-      <webElementGuid>71c5e120-08a3-4139-975c-3cd39548f8c5</webElementGuid>
+      <webElementGuid>93849428-0c58-421d-a85c-0bf1f47df298</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>37ae136a-4206-43c4-afa3-ee020889c770</webElementGuid>
+      <webElementGuid>ce64dba7-d0b1-4a18-8554-f061849af448</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>6f7c3d00-87bc-42c0-9377-9a5de8d959fb</webElementGuid>
+      <webElementGuid>d4e482e3-6b05-4e79-8bda-c83532bf161b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-input-text a-span12 auth-autofocus auth-required-field</value>
-      <webElementGuid>e60d67eb-d0c4-496a-a46c-48eaa4bed9f6</webElementGuid>
+      <webElementGuid>cb3a3284-77c2-4ff7-b454-0345bf96477a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ap_password&quot;)</value>
-      <webElementGuid>273f8d39-8f99-44a1-bf61-2e32a4c7ae28</webElementGuid>
+      <webElementGuid>4da4573a-ea5e-4b2a-9631-539182580122</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='ap_password']</value>
-      <webElementGuid>26d33264-cb59-40ae-9fa4-c77e1fa26d88</webElementGuid>
+      <webElementGuid>a2029440-0c2d-48f5-80dc-5be86ff0b0b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='authportal-main-section']/div[2]/div/div[2]/div/form/div/div/input</value>
-      <webElementGuid>5f55f44d-8d30-4715-b9bf-257bf347c29c</webElementGuid>
+      <webElementGuid>4520e3ac-6932-4cdc-a8e8-cc1994739e3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/input</value>
-      <webElementGuid>b0719bdb-fca5-4372-b10f-51af0a9bd6d6</webElementGuid>
+      <webElementGuid>b9ee8d6c-4b7b-427a-a875-216e0c7d7209</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @id = 'ap_password' and @name = 'password']</value>
-      <webElementGuid>b9d9be14-2a7d-4c10-98ea-c8346e129e40</webElementGuid>
+      <webElementGuid>497cb5f1-7939-4fe6-be9d-10a4f8645d07</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

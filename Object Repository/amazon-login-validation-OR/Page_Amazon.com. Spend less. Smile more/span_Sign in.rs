@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#nav-signin-tooltip > a.nav-action-signin-button > span.nav-action-inner</value>
+         <value>span.nav-action-inner</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='nav-signin-tooltip']/a/span</value>
+         <value>//div[@id='nav-flyout-ya-signin']/a/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>c9490e98-ad2d-4f94-a2e1-dcda1cacfe0a</webElementGuid>
+      <webElementGuid>e0311ea6-4d43-4947-878e-c6b16aadf35b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-action-inner</value>
-      <webElementGuid>007b92ef-75d6-413f-bfa9-810235823380</webElementGuid>
+      <webElementGuid>8ac19073-6c4a-4560-945a-62ac056121e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,31 +38,31 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign in</value>
-      <webElementGuid>ea77365b-8aa2-4abb-8b7f-40baace28b67</webElementGuid>
+      <webElementGuid>aefcf6c5-0308-49a9-b4c2-2e6a5375e39a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;nav-signin-tooltip&quot;)/a[@class=&quot;nav-action-signin-button&quot;]/span[@class=&quot;nav-action-inner&quot;]</value>
-      <webElementGuid>9461f5e9-a4f8-4c9a-8585-8acc6320a267</webElementGuid>
+      <value>id(&quot;nav-flyout-ya-signin&quot;)/a[@class=&quot;nav-action-signin-button&quot;]/span[@class=&quot;nav-action-inner&quot;]</value>
+      <webElementGuid>680749e7-8f00-46f8-ac21-0fc449c08346</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='nav-signin-tooltip']/a/span</value>
-      <webElementGuid>0d936dd8-f94e-49f3-adaa-5fb8261b048d</webElementGuid>
+      <value>//div[@id='nav-flyout-ya-signin']/a/span</value>
+      <webElementGuid>3e1e0240-ec57-45ac-a5f0-b4a534c7db81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[14]/div[2]/a/span</value>
-      <webElementGuid>470b3a80-4b19-410a-b34e-352a9a49704f</webElementGuid>
+      <value>//div[2]/div[2]/div/div/div/a/span</value>
+      <webElementGuid>e821cb71-be08-4d67-85bb-33b2504e60e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Sign in' or . = 'Sign in')]</value>
-      <webElementGuid>7fe0461f-9cf4-4006-97c2-032e41c5739a</webElementGuid>
+      <webElementGuid>2b0e3d7e-7430-4fb6-81aa-a0dfb1bed465</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

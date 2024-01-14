@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Enter your password_signInSubmit</name>
+   <name>input_Enter your email or mobile phone numb_fc7402</name>
    <tag></tag>
-   <elementGuidId>0f5635a7-cb0f-4389-8564-1f4164918446</elementGuidId>
+   <elementGuidId>63dc8a88-97b7-45ee-b2b8-b01d28fec246</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#signInSubmit</value>
+         <value>span.a-button-inner > #continue</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='signInSubmit']</value>
+         <value>//input[@id='continue']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7d2217bf-7cde-41ad-b37b-ec0586faced8</webElementGuid>
+      <webElementGuid>87f6988b-4de3-4b88-8d83-9ce3b56526dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>signInSubmit</value>
-      <webElementGuid>69aab1b5-16c9-4d1f-9650-de96ab6283f9</webElementGuid>
+      <value>continue</value>
+      <webElementGuid>c57e3d8f-4286-4fb9-8d2c-910d547ed88c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tabindex</name>
       <type>Main</type>
-      <value>3</value>
-      <webElementGuid>4101b0e1-d851-4a27-aa6a-09cd1512e89d</webElementGuid>
+      <value>5</value>
+      <webElementGuid>e7dd8b4b-198d-480c-ae76-d6732a1525e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-button-input</value>
-      <webElementGuid>d6cf5e79-e838-4842-ba25-a8abf911206b</webElementGuid>
+      <webElementGuid>dfc28068-10f8-4f37-8634-f4a02e505011</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,39 +54,39 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>fdeb147b-fb26-4604-8ffb-e43ac3490b3e</webElementGuid>
+      <webElementGuid>15c69bcc-9f4c-4e42-8cfa-5146ca789e58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-labelledby</name>
       <type>Main</type>
-      <value>auth-signin-button-announce</value>
-      <webElementGuid>02f3e699-5514-4ffb-ba9f-b5b7a376cd1b</webElementGuid>
+      <value>continue-announce</value>
+      <webElementGuid>a4c09b5c-ffa8-4601-838a-71080b0cd4bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;signInSubmit&quot;)</value>
-      <webElementGuid>882f5d48-5b6b-4ec2-acfc-28943b4947f6</webElementGuid>
+      <value>id(&quot;authportal-main-section&quot;)/div[@class=&quot;a-section auth-pagelet-container&quot;]/div[@class=&quot;a-section a-spacing-base&quot;]/div[@class=&quot;a-section&quot;]/form[@class=&quot;auth-validate-form auth-real-time-validation a-spacing-none&quot;]/div[@class=&quot;a-section&quot;]/div[@class=&quot;a-box&quot;]/div[@class=&quot;a-box-inner a-padding-extra-large&quot;]/div[@class=&quot;a-section&quot;]/span[@id=&quot;continue&quot;]/span[@class=&quot;a-button-inner&quot;]/input[@id=&quot;continue&quot;]</value>
+      <webElementGuid>e1f158fd-c1b7-4a48-833f-fcd3f0eafb2d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='signInSubmit']</value>
-      <webElementGuid>54b03c66-a9ef-47cf-8eff-6a67b634c8c5</webElementGuid>
+      <value>//input[@id='continue']</value>
+      <webElementGuid>25075da3-5dee-4f7e-9922-42cd69f4e088</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='auth-signin-button']/span/input</value>
-      <webElementGuid>0bd84f89-0554-4bb7-900e-62169c328c05</webElementGuid>
+      <value>//span[@id='continue']/span/input</value>
+      <webElementGuid>15ed828c-9c6c-4b6c-8eea-1b232de30f5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,14 +94,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/input</value>
-      <webElementGuid>54438e0a-42cd-486d-b6c3-90a55bd22f68</webElementGuid>
+      <webElementGuid>f1d5f32a-be25-4514-aeaf-1bfae257cfcb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'signInSubmit' and @type = 'submit']</value>
-      <webElementGuid>e7cb338e-d822-4fe2-b368-63ff4245caf8</webElementGuid>
+      <value>//input[@id = 'continue' and @type = 'submit']</value>
+      <webElementGuid>8e826882-903a-4dc5-abe9-7808dc25f289</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

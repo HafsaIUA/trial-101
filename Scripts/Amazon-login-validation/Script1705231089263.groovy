@@ -21,13 +21,18 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.amazon.com/')
 
-WebUI.click(findTestObject('Object Repository/amazon-login-validation-OR/Page_Amazon.com. Spend less. Smile more/span_Sign in'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/amazon-login-validation-OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92'), 
+    'search-alias=stripbooks-intl-ship', true)
+
+WebUI.doubleClick(findTestObject('Object Repository/amazon-login-validation-OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in'))
 
 WebUI.setText(findTestObject('Object Repository/amazon-login-validation-OR/Page_Amazon Sign-In/input_Email or mobile phone number_email'), 
-    '7032086286')
+    'hafsa.ihtesham@gmail.com')
+
+WebUI.click(findTestObject('Object Repository/amazon-login-validation-OR/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/amazon-login-validation-OR/Page_Amazon Sign-In/input_Forgot your password_password'), 
-    'WWqDr1Hh3xsBDf2tarJjhg==')
+    'tzH6RvlfSTg=')
 
 WebUI.click(findTestObject('Object Repository/amazon-login-validation-OR/Page_Amazon Sign-In/input_Enter your password_signInSubmit'))
 
